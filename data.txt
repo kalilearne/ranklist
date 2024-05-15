@@ -1,0 +1,5 @@
+[
+    { "rank": 1, "player": "丞C", "score": 100 },
+    { "rank": 2, "player": "🐏", "score": 95 },
+    { "rank": 3, "player": "苑小洛", "score": 90 }
+]
